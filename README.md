@@ -1,1 +1,1 @@
-# dockerSPFx
+# SharePoint Framework Docker images
